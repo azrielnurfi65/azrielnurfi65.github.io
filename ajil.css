@@ -9,7 +9,7 @@ a{
 }
 .medsos{
 	padding: 5px 0;
-	background-color: 	#d7dda0; 
+	background-color: Moccasin; 
 }
 .medsos ul li{
 	display: inline-block;
@@ -33,7 +33,7 @@ header h1{
 header h2{
 	float: left;
 	padding: 10px 0;
-	color: #d7e297;
+	color: Moccasin;
 }
 header ul{
 	float: right;
@@ -46,16 +46,16 @@ header ul li a{
 	display: inline-block;
 }
 header ul li a:hover{
-	background-color: #DDA0DD; 
+	background-color: Beige; 
 	color: white;
 }
 .active{
-	background-color: 	#b2db70; 
+	background-color: 	Salmon; 
 	color: white;
 }
 .banner{
 	height: 90vh;
-	background-image: url(lb1.jpg);
+	background-image: url(banner.jpg);
 	background-size: cover;
 	position: relative;
 	display: flex;
@@ -70,14 +70,14 @@ header ul li a:hover{
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: rgba(55,35,39,0.5);
+	background-color: LightSalmon;
 }
 .banner h2{
 	background-image: url(banner.jpg);
 	color:	#828b00;
 	z-index: 1;
 	padding: 20px 20px;
-	border: 8px groove 	#b2db70;
+	border: 8px groove 	Salmon;
 	text-align: center;
 }
 
@@ -86,45 +86,45 @@ section{
 	padding: 50px 0;
 }
 section h2{
-	background-color:	#D8BFD8;
+	background-color:	DarkSeaGreen;
 	padding: 20px 0;
-	color: #7e8000;
+	color: PowderBlue;
 	text-align: center;
 
 }
 section h3{
 	text-align: center;
 	padding: 20px 0;
-	color: 	#d7e297;
+	color: 	Black;
 	margin-bottom: 20px;
 }
 section p{
-	color: 	#d7e297;
+	color: 	Black;
 	word-spacing: 2px;
 	line-height: 20px;
 	padding: 50px;
 	text-align:justify;
 }
 .biodata{
-	background-color: #D8BFD8;
+	background-color: DarkSeaGreen;
 }
 .biodata ul li{
 	text-align: center;
 	padding: 1px 0;
-	color: 	#999733;
+	color: 	Black;
 	margin-bottom: 10px;
 	display: block;
 }
 .pengalaman{
-	background-color: #D8BFD8;
+	background-color: DarkSeaGreen;
 	display: block;
 	margin-bottom: 10px;
 }
 .gallery{
-	background-color: #D8BFD8;
+	background-color: DarkSeaGreen;
 }
 .content{
-	background-color: #D8BFD8;
+	background-color: DarkSeaGreen;
 	display: block;
 	margin-bottom: 10px;
 
